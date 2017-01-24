@@ -65,6 +65,7 @@
 - There are people you have an immediately obvious connection with. That connection never dies, and should be cherished.
 - One should be honest and open with others. 
 - Gloating over the misfortune of others is abominable. Smugness is deplorable.
+- "Hell is other people."
 
 ## Love
 - Soulmates exists, but it's often unlike how it's pictured in books.
@@ -72,6 +73,12 @@
 - Relationships are supposed to be about supporting each other even in bad times.
 - A loveless relationship looks useless to me, and should be ended even if it's comfy. Dunno what if there are kids, or when one party is disabled etc, really dunno.
 - There's an asymmetry in all relationships.
+
+## Lifestyle
+- Change is a Good Thing, even when not comfy.
+- Getting new perspectives is a Good Thing.
+- Learning anything is a Good Thing.
+- Pursuing happiness may well turn one into an asshole.
 
 ## Us vs the world
 - We percieve the world through imperfect, biased models we maintain in our minds.
