@@ -66,6 +66,7 @@
 - One should be honest and open with others. 
 - Gloating over the misfortune of others is abominable. Smugness is deplorable.
 - "Hell is other people."
+- We make waves.
 
 ## Love
 - Soulmates exists, but it's often unlike how it's pictured in books.
@@ -82,9 +83,12 @@
 
 ## Us vs the world
 - We percieve the world through imperfect, biased models we maintain in our minds.
+- We maintain multiple such models, "arranged spatially".
 - It is possible to change that model, but it requires effort.
 - Consciousness of this process, and consciousness in life in general, is the way forward.
 - We do not have a higher purpose in life, but it may be beneficial to imagine one.
+- When our mental models are not in sync, we experience tension and pain.
+- The mental models are actually narratives.
 
 ## Beliefs
 - Some of my beliefs will be proven wrong.
