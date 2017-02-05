@@ -22,7 +22,7 @@
 - The core ethics of the EU bind us to welcome immigrants. If the immigration destroys the EU, so be it, better than abandoning the core ehtics.
 
 ### World politics
-- The presidency of Trump is probably a good thing, because it may shake up the political establishment. It may also be a very unpleasant thing.
+- The presidency of Trump is probably a good thing, because it may shake up the political establishment. It is also be a very unpleasant thing.
 - The jihad must be stopped. Fundamentalism in general should be eradicated.
 - Populism is bad, because the wide public has a bad taste.
 - Classical representative liberal democracy is dead, and we should not be sorry to see it go.
@@ -44,6 +44,7 @@
 - "Paleo diet" is probably bullshit, but may have an incidental grain of truth. Ha, "grain".
 - Most silver bullet diets are probably bullshit.
 - Homeopathy is bullshit.
+- "Healthy" expensive bread makes you feel better than crap breads.
 
 ## Technology
 - Most of our technology is crap, because we are incompetent.
@@ -55,7 +56,7 @@
 - There is no god.
 - Seemingly supernatural things that cannot be explained do happen, but that's just because we don't have the science to explain them. We may never have the science to explain them. Calling them "supernatural" is as good as anything.
 - Religion is often dangerous, but can also be a stabilizing force in a society.
-- Banning a belief system will not prevent its spread.
+- Banning a belief system will not help it spread.
 - Education is the only force against superstition and fundamentalism.
 - Educating children about religion may be a good thing.
 - Astrology, numerology, etc are stupid superstitions.
@@ -83,11 +84,12 @@
 
 ## Us vs the world
 - We percieve the world through imperfect, biased models we maintain in our minds.
-- We maintain multiple such models, "arranged spatially".
+- We maintain multiple such models, "arranged spatially" (that's a quote from Philip Dick, and should not be taken seriously. I don't care how it's arranged).
 - It is possible to change that model, but it requires effort.
 - Consciousness of this process, and consciousness in life in general, is the way forward.
 - We do not have a higher purpose in life, but it may be beneficial to imagine one.
 - When our mental models are not in sync, we experience tension and pain.
+- Happy people have their mental models aligned. They may be blind to a lot of things.
 - The mental models are actually narratives.
 
 ## Beliefs
