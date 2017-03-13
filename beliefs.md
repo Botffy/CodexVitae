@@ -9,7 +9,6 @@
 - Ideologies are in general detrimental to political discussion.
 
 ### Hungary
-- Budapest must abandon the plans of the 2024 Olympics. No exceptions.
 - There is a feudalism forming in Hungary. That process should be opposed.
 - Likening Orbán to Hitler etc is silly.
 - Orbán means well, but he is disconnected from reality.
@@ -32,7 +31,7 @@
 - Putin may not be the satan, but he should be opposed.
 
 ## Environment
-- Global warming is real. Anybody denying it is a crackpot or lies. No exceptions.
+- Global warming is real, and it is caused by human activities. Anybody denying it is a crackpot or lies. No exceptions.
 - Cars are evil. Sometimes neccessary evil, but still.
 - We should all recycle.
 - GMO is not evil or in itself harmful. It may be harmful in the hands of free-market capitalism.
@@ -56,25 +55,26 @@
 - There is no god.
 - Seemingly supernatural things that cannot be explained do happen, but that's just because we don't have the science to explain them. We may never have the science to explain them. Calling them "supernatural" is as good as anything.
 - Religion is often dangerous, but can also be a stabilizing force in a society.
-- Banning a belief system will not help it spread.
+- Banning a belief system will help it spread.
 - Education is the only force against superstition and fundamentalism.
-- Educating children about religion may be a good thing.
+- Educating children about religion is a good thing. 
 - Astrology, numerology, etc are stupid superstitions.
-- The Myers-Briggs test, and other similar things, may be useful for getting to know ourselves.
+- The Myers-Briggs test, the enneagram, and other similar things, may be useful for getting to know ourselves.
 
 ## Human relationships
 - There are people you have an immediately obvious connection with. That connection never dies, and should be cherished.
 - One should be honest and open with others. 
 - Gloating over the misfortune of others is abominable. Smugness is deplorable.
+- If your happiness depends on someone else, you're doing something wrong.
 - "Hell is other people."
 - We make waves.
 
 ## Love
+- There's an asymmetry in all relationships.
 - Soulmates exists, but it's often unlike how it's pictured in books.
 - Marriage is a social contract protecting the woman caring for a child. 
-- Relationships are supposed to be about supporting each other even in bad times.
-- A loveless relationship looks useless to me, and should be ended even if it's comfy. Dunno what if there are kids, or when one party is disabled etc, really dunno.
-- There's an asymmetry in all relationships.
+- Relationships are supposed to be about supporting each other even in bad times. What are the limits of this?
+- A loveless relationship looks useless to me, and should be ended even if it's comfy. Dunno what if there are kids, or when one party is disabled etc, really dunno. What are the limits? When are you allowed to leave an unhappy relationship?
 
 ## Lifestyle
 - Change is a Good Thing, even when not comfy.
