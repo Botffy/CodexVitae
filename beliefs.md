@@ -1,27 +1,29 @@
 # My beliefs
 
 ## Politits
-- Propaganda is everywhere. Every news item should be questioned.
 - Free-market liberal capitalism is probably not a good thing.
-- Politics should be based on issues, especially on local issues.
+- Propaganda is everywhere. News items should be questioned, but I should not build my life around this.
+- Politics should be based on issues.
 - Political decisions should come about from expert debate.
 - Pluralism of opinion is a good thing.
 - Ideologies are in general detrimental to political discussion.
 
 ### Hungary
-- There is a feudalism forming in Hungary. That process should be opposed.
+- The feudalism in Hungary is eternal, and cannot be changed.
+- The political structure of Hungary is the result of being wedged between the Balkans and Germany.
+- We must still hold up to our values even in the face of adversity, and we should oppose the country's slide into dictatorship.  
 - Likening Orbán to Hitler etc is silly.
-- Orbán means well, but he is disconnected from reality.
+- Orbán does not mean well.
+- Mészáros is Orbán.
 
 ### EU
 - The European Union is a Good Thing, and unprecedented in every way.
 - Europe includes everything that was ever part of the Roman Empire, and also includes the areas defined by the geographical definition. The EU has a responsibility for the welfare these areas.
-- The EU should continue to develop into a technocracy governed by experts.
 - The population of the EU should realise that the EU is a good thing.
-- The core ethics of the EU bind us to welcome immigrants. If the immigration destroys the EU, so be it, better than abandoning the core ehtics.
+- We must realize and understand why people dislike the immigration, and we must recognize their problems.
 
 ### World politics
-- The presidency of Trump is probably a good thing, because it may shake up the political establishment. It is also be a very unpleasant thing.
+- The presidency of Trump is probably a good thing, because it shakes up the political establishment. It is also be a very unpleasant thing.
 - The jihad must be stopped. Fundamentalism in general should be eradicated.
 - Populism is bad, because the wide public has a bad taste.
 - Classical representative liberal democracy is dead, and we should not be sorry to see it go.
@@ -32,18 +34,24 @@
 
 ## Environment
 - Global warming is real, and it is caused by human activities. Anybody denying it is a crackpot or lies. No exceptions.
-- Cars are evil. Sometimes neccessary evil, but still.
-- We should all recycle.
+- Global warming is our third world war. 
+- Nuclear power is the way to go, and not the renewable sources of power.
+- It may be possible to solve the problem, but it needs commitment and heavy state intervention.
+- This would mean changing many aspects of free-market capitalism.
+- Personal efforts are commendable, but are not in itself enough.
+- Urging people to flush the toilet with used bathwater etc is silly.
 - GMO is not evil or in itself harmful. It may be harmful in the hands of free-market capitalism.
 
 ## Health
 - Being healthy in body and mind may come about from exercise, and eating healthy-ish.
 - I'm not sure what "eating healthy" is.
+- Eating less meat and more vegetables is good for you.
+- Eating less in general is good for you.
 - Sugar is not poison. But eating lots of refined sugar is definitely bad.
 - "Paleo diet" is probably bullshit, but may have an incidental grain of truth. Ha, "grain".
 - Most silver bullet diets are probably bullshit.
 - Homeopathy is bullshit.
-- "Healthy" expensive bread makes you feel better than crap breads.
+- "Healthy expensive bread makes you feel better than crap breads.
 
 ## Technology
 - Most of our technology is crap, because we are incompetent.
@@ -72,15 +80,19 @@
 ## Love
 - There's an asymmetry in all relationships.
 - Soulmates exists, but it's often unlike how it's pictured in books.
-- Marriage is a social contract protecting the woman caring for a child. 
+- Marriage is a social contract protecting the woman caring for a child.
+- Everything that happens in a relationship is the responsibility of two people.
 - Relationships are supposed to be about supporting each other even in bad times. What are the limits of this?
 - A loveless relationship looks useless to me, and should be ended even if it's comfy. Dunno what if there are kids, or when one party is disabled etc, really dunno. What are the limits? When are you allowed to leave an unhappy relationship?
+- You are responsible for someone you love, but the loss of love may mean the end of the responsibility.
+- People in love behave like teenagers, but that is not bad. That's what being in love looks like.
 
 ## Lifestyle
 - Change is a Good Thing, even when not comfy.
 - Getting new perspectives is a Good Thing.
 - Learning anything is a Good Thing.
 - Pursuing happiness may well turn one into an asshole.
+- Keeping track of things is a Good Thing.
 
 ## Us vs the world
 - We percieve the world through imperfect, biased models we maintain in our minds.
