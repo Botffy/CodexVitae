@@ -1,0 +1,118 @@
+<html>
+<head>
+	<title>My life in weeks</title>
+    <meta charset='UTF-8'/>
+    <style>
+        .week {
+            width: 10px;
+            height: 10px;
+            border: 1px solid black;
+            display: inline-block;
+            margin: 2px;
+        }
+
+        .birth {
+            background-color: red;
+        }
+
+        .death {
+            background-color: black;
+        }
+
+        .life-event {
+            background-color: violet;
+        }
+
+        .no-event {
+            background-color: lightgrey;
+        }
+
+        .year-label {
+            display: inline-block;
+            width: 4em;
+            margin-right: 4px; 
+            text-align: right;
+        }
+
+        #container {
+            width: 920px;
+            text-align: center;
+            margin: auto;
+        }
+    </style>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
+    <script src="https://unpkg.com/popper.js@1"></script>
+    <script src="https://unpkg.com/tippy.js@4"></script>
+    <script src="weeks.js"></script>
+    <script type="text/javascript">
+        const birthDate = moment("1982-05-26");
+        const deathDate = moment("2057-07-27")
+        const current = moment();
+
+        function mapEvents(events) {
+            const result = {};
+
+            for (dateStr in events) {
+                let ev = moment(dateStr);
+                if (!(ev.year() in result)) {
+                    result[ev.year()] = {}; 
+                }
+                result[ev.year()][ev.week()] = events[dateStr];
+            }
+
+            return result;
+        }
+
+        function main() {
+            const cont = document.getElementById('container');
+
+            const eventMap = mapEvents(events);
+
+            const isInMyLife = function(year, week) {
+                return (year > birthDate.year() || week > birthDate.week())
+                    && (year < current.year() || (year == current.year() && week < current.week()));
+            }
+
+            const createYear = function(yearNo) {
+                const year = yearNo + birthDate.year(); 
+                const label = document.createElement('div');
+                label.className = 'year-label';
+                label.appendChild(document.createTextNode(year));
+                cont.appendChild(label)
+
+                for (let week = 0; week < 52; ++week) {
+                    const weekElement = document.createElement('div');
+                    weekElement.className = "week";
+
+                    if (year == birthDate.year() && week == birthDate.week()) {
+                        weekElement.className += ' birth';
+                        tippy(weekElement, { 'content': 'Megszülettem' });
+                    }
+                    else if (year == deathDate.year() && week == deathDate.week()) {
+                        weekElement.className += ' death';
+                        tippy(weekElement, { 'content': 'Várható élettartam vége' });
+                    } else if (year in eventMap && week in eventMap[year]) {
+                        weekElement.className += ' ' + eventMap[year][week]['type'];
+                        tippy(weekElement, {'content': eventMap[year][week]['description'] })
+                    } else if (isInMyLife(year, week)) {
+                        weekElement.className += ' no-event'
+                    }
+
+                    cont.appendChild(weekElement);
+                }
+                cont.appendChild(document.createElement('br'));
+            };
+
+            for (let year = 0; year < 90; ++year) {
+                createYear(year);
+            }
+        }
+
+
+        window.addEventListener('load', main);
+    </script>
+</head>
+<body>
+    <div id='container'></div>
+</body>
