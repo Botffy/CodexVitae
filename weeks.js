@@ -14,5 +14,9 @@ var events = {
 	'2019-02-23': {
 		'type': 'life-event',
 		'description': 'Szakítás Zsófival, költözés a Hajadon utcába'
+	},
+	'2019-07-21': {
+		'type': 'enjoyment',
+		'description': 'Burgas' 
 	}
 };
