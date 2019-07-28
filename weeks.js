@@ -18,5 +18,8 @@ var events = {
 	'2019-07-21': {
 		'type': 'enjoyment',
 		'description': 'Burgas' 
-	}
+	},
+	'2019-07-28': {
+		'type': 'failure',
+	},
 };
