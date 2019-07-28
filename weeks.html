@@ -118,7 +118,10 @@
                         tippy(weekElement, { 'content': 'Várható élettartam vége' });
                     } else if (year in eventMap && week in eventMap[year]) {
                         weekElement.className += ' ' + eventMap[year][week]['type'];
-                        tippy(weekElement, {'content': eventMap[year][week]['description'] })
+
+                        if (eventMap[year][week]['description']) {
+                            tippy(weekElement, {'content': eventMap[year][week]['description'] })
+                        }
                     } else if (isInMyLife(year, week)) {
                         weekElement.className += ' no-event'
                     }
