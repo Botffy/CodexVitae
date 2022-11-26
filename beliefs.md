@@ -2,7 +2,7 @@
 
 ## Politits
 - Free-market liberal capitalism is probably not a good thing.
-- Propaganda is everywhere. News items should be questioned, but I should not build my life around this.
+- Propaganda is everywhere, but mostly unconscious. News items should be questioned or ignored, but it is good to keep track of the general sentiment.
 - Politics should be based on issues.
 - Political decisions should come about from expert debate.
 - Pluralism of opinion is a good thing.
@@ -11,7 +11,8 @@
 ### Hungary
 - The feudalism in Hungary is eternal, and cannot be changed.
 - The political structure of Hungary is the result of being wedged between the Balkans and Germany.
-- We must still hold up to our values even in the face of adversity, and we should oppose the country's slide into dictatorship.  
+- We must still hold up to our values even in the face of adversity, and we should oppose the country's slide into dictatorship.
+- If we have the means, we should contribute to building the Second State, a parallel infrastructure.
 - Likening Orbán to Hitler etc is silly.
 - Orbán does not mean well.
 - Mészáros is Orbán.
@@ -20,7 +21,7 @@
 - The European Union is a Good Thing, and unprecedented in every way.
 - Europe includes everything that was ever part of the Roman Empire, and also includes the areas defined by the geographical definition. The EU has a responsibility for the welfare these areas.
 - The population of the EU should realise that the EU is a good thing.
-- We must realize and understand why people dislike the immigration, and we must recognize their problems.
+- We must realize and understand why people dislike the immigration and the woke thinking, and we must recognize their problems.
 
 ### World politics
 - The presidency of Trump is probably a good thing, because it shakes up the political establishment. It is also be a very unpleasant thing.
@@ -47,11 +48,13 @@
 - I'm not sure what "eating healthy" is.
 - Eating less meat and more vegetables is good for you.
 - Eating less in general is good for you.
+- Eating small portions multiple times is better for you.
+- As you get older, your metabolism gets worse.
 - Sugar is not poison. But eating lots of refined sugar is definitely bad.
 - "Paleo diet" is probably bullshit, but may have an incidental grain of truth. Ha, "grain".
 - Most silver bullet diets are probably bullshit.
 - Homeopathy is bullshit.
-- "Healthy expensive bread makes you feel better than crap breads.
+- Healthy expensive bread makes you feel better than crap breads.
 
 ## Technology
 - Most of our technology is crap, because we are incompetent.
@@ -66,14 +69,16 @@
 - Banning a belief system will help it spread.
 - Education is the only force against superstition and fundamentalism.
 - Educating children about religion is a good thing. 
-- Astrology, numerology, etc are stupid superstitions.
-- The Myers-Briggs test, the enneagram, and other similar things, may be useful for getting to know ourselves.
+- Astrology, numerology, etc are stupid superstitions, but may be useful for self-reflection.
+- The Myers-Briggs test, the enneagram, and other similar things, may be useful for self-reflection.
+- Spiritualist leaders are crackpots out for self-gratification and money.
 
 ## Human relationships
 - There are people you have an immediately obvious connection with. That connection never dies, and should be cherished.
 - One should be honest and open with others. 
 - Gloating over the misfortune of others is abominable. Smugness is deplorable.
 - If your happiness depends on someone else, you're doing something wrong.
+- All human interactions are based on unspoken contracts. Tension is created when our respective perceptions of the contract are different. Openness, honesty, and continuous feedback may help with this.
 - "Hell is other people."
 - We make waves.
 
@@ -96,7 +101,7 @@
 
 ## Us vs the world
 - We percieve the world through imperfect, biased models we maintain in our minds.
-- We maintain multiple such models, "arranged spatially" (that's a quote from Philip Dick, and should not be taken seriously. I don't care how it's arranged).
+- We maintain multiple such models, arranged spatially (that's a quote from Philip Dick, and should not be taken seriously. I don't care how it's arranged).
 - It is possible to change that model, but it requires effort.
 - Consciousness of this process, and consciousness in life in general, is the way forward.
 - We do not have a higher purpose in life, but it may be beneficial to imagine one.
